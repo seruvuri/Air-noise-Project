@@ -1,1 +1,1 @@
-## End to End ML project using snowpark
+## End to End ML project 
