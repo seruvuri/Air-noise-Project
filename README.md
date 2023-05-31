@@ -1,8 +1,8 @@
-# ML Projects
+# ML Project
 
-## 1. Air Foil prediction
 
-## 2. Student_Performace_Prediction
+
+##  Student_Performace_Prediction
  Aim:- To predict maths score of a student 
  
 ### Components
